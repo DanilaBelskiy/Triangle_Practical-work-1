@@ -1,4 +1,4 @@
-a=[]
+4a=[]
 from math import sqrt
 for i in range(1,51):
     a.append(i)
