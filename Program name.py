@@ -30,4 +30,9 @@ while True:
         print(f"Третья сторона: {s3}")
         print(f"Площадь: {squre}")
         break
+    if s3==a[kolvo-1]:
+        print("Невозможно создать ни одного треугольника")
+        break
+    max+=1
+
 
